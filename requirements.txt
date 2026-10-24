@@ -1,0 +1,13 @@
+# Core
+playwright==1.20.0
+greenlet==1.1.0
+websockets==10.4
+
+# Si usas Flask/Django/FastAPI, descomenta la línea correspondiente
+# flask==2.0.3
+# django==3.2.20
+# fastapi==0.68.0
+
+# Utilidades
+python-dotenv
+requests
